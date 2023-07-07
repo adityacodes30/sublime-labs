@@ -1,0 +1,252 @@
+@font-face {
+    font-family: 'Grtsk Zetta Bkslnt';
+    src: url('GrtskZettaBkslnt-Extralight.eot');
+    src: local('Grtsk Zetta Bkslnt Extralight'), local('GrtskZettaBkslnt-Extralight'),
+        url('GrtskZettaBkslnt-Extralight.eot?#iefix') format('embedded-opentype'),
+        url('GrtskZettaBkslnt-Extralight.woff2') format('woff2'),
+        url('GrtskZettaBkslnt-Extralight.woff') format('woff'),
+        url('GrtskZettaBkslnt-Extralight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Grtsk Zetta';
+    src: url('GrtskZetta-Extralight.eot');
+    src: local('Grtsk Zetta Extralight'), local('GrtskZetta-Extralight'),
+        url('GrtskZetta-Extralight.eot?#iefix') format('embedded-opentype'),
+        url('GrtskZetta-Extralight.woff2') format('woff2'),
+        url('GrtskZetta-Extralight.woff') format('woff'),
+        url('GrtskZetta-Extralight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Grtsk Zetta Bkslnt';
+    src: url('GrtskZettaBkslnt-Medium.eot');
+    src: local('Grtsk Zetta Bkslnt Medium'), local('GrtskZettaBkslnt-Medium'),
+        url('GrtskZettaBkslnt-Medium.eot?#iefix') format('embedded-opentype'),
+        url('GrtskZettaBkslnt-Medium.woff2') format('woff2'),
+        url('GrtskZettaBkslnt-Medium.woff') format('woff'),
+        url('GrtskZettaBkslnt-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Grtsk Zetta Bkslnt';
+    src: url('GrtskZettaBkslnt-Light.eot');
+    src: local('Grtsk Zetta Bkslnt Light'), local('GrtskZettaBkslnt-Light'),
+        url('GrtskZettaBkslnt-Light.eot?#iefix') format('embedded-opentype'),
+        url('GrtskZettaBkslnt-Light.woff2') format('woff2'),
+        url('GrtskZettaBkslnt-Light.woff') format('woff'),
+        url('GrtskZettaBkslnt-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Grtsk Zetta Bkslnt';
+    src: url('GrtskZettaBkslnt-Thin.eot');
+    src: local('Grtsk Zetta Bkslnt Thin'), local('GrtskZettaBkslnt-Thin'),
+        url('GrtskZettaBkslnt-Thin.eot?#iefix') format('embedded-opentype'),
+        url('GrtskZettaBkslnt-Thin.woff2') format('woff2'),
+        url('GrtskZettaBkslnt-Thin.woff') format('woff'),
+        url('GrtskZettaBkslnt-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Grtsk Zetta Bkslnt';
+    src: url('GrtskZettaBkslnt-Regular.eot');
+    src: local('Grtsk Zetta Bkslnt Regular'), local('GrtskZettaBkslnt-Regular'),
+        url('GrtskZettaBkslnt-Regular.eot?#iefix') format('embedded-opentype'),
+        url('GrtskZettaBkslnt-Regular.woff2') format('woff2'),
+        url('GrtskZettaBkslnt-Regular.woff') format('woff'),
+        url('GrtskZettaBkslnt-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Grtsk Zetta Bkslnt';
+    src: url('GrtskZettaBkslnt-Semibold.eot');
+    src: local('Grtsk Zetta Bkslnt Semibold'), local('GrtskZettaBkslnt-Semibold'),
+        url('GrtskZettaBkslnt-Semibold.eot?#iefix') format('embedded-opentype'),
+        url('GrtskZettaBkslnt-Semibold.woff2') format('woff2'),
+        url('GrtskZettaBkslnt-Semibold.woff') format('woff'),
+        url('GrtskZettaBkslnt-Semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Grtsk Zetta';
+    src: url('GrtskZetta-Bold.eot');
+    src: local('Grtsk Zetta Bold'), local('GrtskZetta-Bold'),
+        url('GrtskZetta-Bold.eot?#iefix') format('embedded-opentype'),
+        url('GrtskZetta-Bold.woff2') format('woff2'),
+        url('GrtskZetta-Bold.woff') format('woff'),
+        url('GrtskZetta-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Grtsk Zetta';
+    src: url('GrtskZetta-BoldItalic.eot');
+    src: local('Grtsk Zetta Bold Italic'), local('GrtskZetta-BoldItalic'),
+        url('GrtskZetta-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('GrtskZetta-BoldItalic.woff2') format('woff2'),
+        url('GrtskZetta-BoldItalic.woff') format('woff'),
+        url('GrtskZetta-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Grtsk Zetta Bkslnt';
+    src: url('GrtskZettaBkslnt-Bold.eot');
+    src: local('Grtsk Zetta Bkslnt Bold'), local('GrtskZettaBkslnt-Bold'),
+        url('GrtskZettaBkslnt-Bold.eot?#iefix') format('embedded-opentype'),
+        url('GrtskZettaBkslnt-Bold.woff2') format('woff2'),
+        url('GrtskZettaBkslnt-Bold.woff') format('woff'),
+        url('GrtskZettaBkslnt-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Grtsk Zetta';
+    src: url('GrtskZetta-MediumItalic.eot');
+    src: local('Grtsk Zetta Medium Italic'), local('GrtskZetta-MediumItalic'),
+        url('GrtskZetta-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('GrtskZetta-MediumItalic.woff2') format('woff2'),
+        url('GrtskZetta-MediumItalic.woff') format('woff'),
+        url('GrtskZetta-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Grtsk Zetta';
+    src: url('GrtskZetta-Italic.eot');
+    src: local('Grtsk Zetta Italic'), local('GrtskZetta-Italic'),
+        url('GrtskZetta-Italic.eot?#iefix') format('embedded-opentype'),
+        url('GrtskZetta-Italic.woff2') format('woff2'),
+        url('GrtskZetta-Italic.woff') format('woff'),
+        url('GrtskZetta-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Grtsk Zetta';
+    src: url('GrtskZetta-Semibold.eot');
+    src: local('Grtsk Zetta Semibold'), local('GrtskZetta-Semibold'),
+        url('GrtskZetta-Semibold.eot?#iefix') format('embedded-opentype'),
+        url('GrtskZetta-Semibold.woff2') format('woff2'),
+        url('GrtskZetta-Semibold.woff') format('woff'),
+        url('GrtskZetta-Semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Grtsk Zetta';
+    src: url('GrtskZetta-SemiboldItalic.eot');
+    src: local('Grtsk Zetta Semibold Italic'), local('GrtskZetta-SemiboldItalic'),
+        url('GrtskZetta-SemiboldItalic.eot?#iefix') format('embedded-opentype'),
+        url('GrtskZetta-SemiboldItalic.woff2') format('woff2'),
+        url('GrtskZetta-SemiboldItalic.woff') format('woff'),
+        url('GrtskZetta-SemiboldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Grtsk Zetta';
+    src: url('GrtskZetta-Thin.eot');
+    src: local('Grtsk Zetta Thin'), local('GrtskZetta-Thin'),
+        url('GrtskZetta-Thin.eot?#iefix') format('embedded-opentype'),
+        url('GrtskZetta-Thin.woff2') format('woff2'),
+        url('GrtskZetta-Thin.woff') format('woff'),
+        url('GrtskZetta-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Grtsk Zetta';
+    src: url('GrtskZetta-Medium.eot');
+    src: local('Grtsk Zetta Medium'), local('GrtskZetta-Medium'),
+        url('GrtskZetta-Medium.eot?#iefix') format('embedded-opentype'),
+        url('GrtskZetta-Medium.woff2') format('woff2'),
+        url('GrtskZetta-Medium.woff') format('woff'),
+        url('GrtskZetta-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Grtsk Zetta';
+    src: url('GrtskZetta-LightItalic.eot');
+    src: local('Grtsk Zetta Light Italic'), local('GrtskZetta-LightItalic'),
+        url('GrtskZetta-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('GrtskZetta-LightItalic.woff2') format('woff2'),
+        url('GrtskZetta-LightItalic.woff') format('woff'),
+        url('GrtskZetta-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Grtsk Zetta';
+    src: url('GrtskZetta-ThinItalic.eot');
+    src: local('Grtsk Zetta Thin Italic'), local('GrtskZetta-ThinItalic'),
+        url('GrtskZetta-ThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('GrtskZetta-ThinItalic.woff2') format('woff2'),
+        url('GrtskZetta-ThinItalic.woff') format('woff'),
+        url('GrtskZetta-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Grtsk Zetta';
+    src: url('GrtskZetta-Light.eot');
+    src: local('Grtsk Zetta Light'), local('GrtskZetta-Light'),
+        url('GrtskZetta-Light.eot?#iefix') format('embedded-opentype'),
+        url('GrtskZetta-Light.woff2') format('woff2'),
+        url('GrtskZetta-Light.woff') format('woff'),
+        url('GrtskZetta-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Grtsk Zetta';
+    src: url('GrtskZetta-ExtralightItalic.eot');
+    src: local('Grtsk Zetta Extralight Italic'), local('GrtskZetta-ExtralightItalic'),
+        url('GrtskZetta-ExtralightItalic.eot?#iefix') format('embedded-opentype'),
+        url('GrtskZetta-ExtralightItalic.woff2') format('woff2'),
+        url('GrtskZetta-ExtralightItalic.woff') format('woff'),
+        url('GrtskZetta-ExtralightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Grtsk Zetta';
+    src: url('GrtskZetta-Regular.eot');
+    src: local('Grtsk Zetta Regular'), local('GrtskZetta-Regular'),
+        url('GrtskZetta-Regular.eot?#iefix') format('embedded-opentype'),
+        url('GrtskZetta-Regular.woff2') format('woff2'),
+        url('GrtskZetta-Regular.woff') format('woff'),
+        url('GrtskZetta-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
